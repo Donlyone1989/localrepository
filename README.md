@@ -1,1 +1,1 @@
-local file html
+local file index.html
